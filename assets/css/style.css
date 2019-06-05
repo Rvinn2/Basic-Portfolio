@@ -73,6 +73,7 @@ ul {
       overflow: hidden;
       padding: 20px;
       margin-top: 50px;
+      
   }
   .aboutme{
     color: #4aaaa5;
@@ -89,4 +90,7 @@ ul {
       border-top: #4aaaa5;
       background-color: #666666;
       width: 100%;
+      padding: 5px 0px;
+      position: relative;
+      text-align: center;
   }
